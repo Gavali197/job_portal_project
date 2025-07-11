@@ -35,37 +35,37 @@ A full-stack **Job Portal** web application built as part of my internship proje
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login](./screenshot/login.png)
+![Login](./Screenshot/login.png)
 
 ### 🏠 Main Page
-![Main Page](./screenshot/MainPage.png)
+![Main Page](./Screenshot/MainPage.png)
 
 ### 🎯 Hero Section
-![Hero Section](./screenshot/Herosection.png)
+![Hero Section](./Screenshot/Herosection.png)
 
 ### 📃 View All Jobs (Recruiter)
-![View Jobs](./screenshot/View_jobs.png)
+![View Jobs](./Screenshot/View_jobs.png)
 
 ### 📨 My Applications (Recruiter)
-![My Applications](./screenshot/My_application.png)
+![My Applications](./Screenshot/My_application.png)
 
 ### 📝 Post a Job (Employer)
-![Post Job](./screenshot/Post_Job.png)
+![Post Job](./Screenshot/Post_Job.png)
 
 ### 📌 Posted Jobs (Employer)
-![Posted Jobs](./screenshot/Posted_Job.png)
+![Posted Jobs](./Screenshot/Posted_Job.png)
 
 ### 👀 View Applicants (Employer)
-![View Applicants](./screenshot/View_Applicants.png)
+![View Applicants](./Screenshot/View_Applicants.png)
 
 ### 🧑‍💼 View Jobseekers (Admin)
-![View Jobseeker](./screenshot/View_Jobseeker.png)
+![View Jobseeker](./Screenshot/View_Jobseeker.png)
 
 ### 🛠️ Manage Jobseekers (Admin)
-![Manage Jobseeker](./screenshot/Manage_jobSeeker.png)
+![Manage Jobseeker](./Screenshot/Manage_jobSeeker.png)
 
 ### 👥 Manage Recruiters (Admin)
-![Manage Recruiter](./screenshot/Manage_Recuiter.png)
+![Manage Recruiter](./Screenshot/Manage_Recuiter.png)
 
 ---
 
