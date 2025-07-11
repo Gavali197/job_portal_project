@@ -59,13 +59,13 @@ A full-stack **Job Portal** web application built as part of my internship proje
 ![View Applicants](./Screenshot/View_Applicants.png)
 
 ### 🧑‍💼 View Jobseekers (Admin)
-![View Jobseeker](./Screenshot/View_Jobseeker.png)
+![View Jobseeker](./Screenshot/View_JobSeeker.png)
 
 ### 🛠️ Manage Jobseekers (Admin)
-![Manage Jobseeker](./Screenshot/Manage_jobSeeker.png)
+![Manage Jobseeker](./Screenshot/Manage_jobseeker.png)
 
 ### 👥 Manage Recruiters (Admin)
-![Manage Recruiter](./Screenshot/Manage_Recuiter.png)
+![Manage Recruiter](./Screenshot/Manage_Recruiter.png)
 
 ---
 
