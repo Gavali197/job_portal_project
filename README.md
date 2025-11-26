@@ -1,4 +1,4 @@
-# 💼 Job Portal Web App
+# 💼 Job Portal Web application 
 
 A full-stack **Job Portal** web application built during my internship. This platform enables seamless interaction between **Recruiters**, **Employers**, and **Admins**, each with role-based access and feature sets.
 
